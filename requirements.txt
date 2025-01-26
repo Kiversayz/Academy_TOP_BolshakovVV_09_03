@@ -1,0 +1,5 @@
+python-dotenv
+beautifulsoup4
+coverage
+pytest
+pytest-cov
